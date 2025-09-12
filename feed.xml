@@ -3,99 +3,750 @@
     <title>MathQuestionBank</title>
     <link href="https://mathquestionbank.pages.dev/feed.xml" rel="self" />
     <link href="https://mathquestionbank.pages.dev" />
-    <updated>2025-09-11T11:51:55+01:00</updated>
+    <updated>2025-09-12T16:27:42+01:00</updated>
     <author>
         <name>MATHQB</name>
     </author>
     <id>https://mathquestionbank.pages.dev</id>
 
     <entry>
-        <title>Counting and Number Recognition: The Foundation of Math</title>
+        <title>Mathematics Teaching Hub</title>
         <author>
             <name>MATHQB</name>
         </author>
-        <link href="https://mathquestionbank.pages.dev/counting-and-number-recognition-the-foundation-of-math-2.html"/>
-        <id>https://mathquestionbank.pages.dev/counting-and-number-recognition-the-foundation-of-math-2.html</id>
+        <link href="https://mathquestionbank.pages.dev/mo-ban-jiao-xue-ye-mian.html"/>
+        <id>https://mathquestionbank.pages.dev/mo-ban-jiao-xue-ye-mian.html</id>
+            <category term="word-problem"/>
+            <category term="quick-practice"/>
+            <category term="difficulty-hard"/>
 
-        <updated>2025-09-11T11:51:55+01:00</updated>
+        <updated>2025-09-12T16:25:11+01:00</updated>
             <summary>
                 <![CDATA[
-                    Recognizing Numbers and Number Order 1.1 Numbers 0–9 Numbers are the key to understanding the world. From 0 to 9, each number has its own shape and meaning. 简单练习 Simple Practice: Q: What comes after 5? A: 6 习题集 Exercise Set: 3.1) Circle number 7&hellip;
+                    Step-by-step teaching covering main math topics. Click tabs below to explore each category. A fraction represents part of a whole. Example: The top number is the numerator, the bottom is the denominator. Fractions with the same denominator: Decimals are fractions written with a denominator of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <ol>
-<li>Recognizing Numbers and Number Order
-1.1 Numbers 0–9</li>
-</ol>
-<p>Numbers are the key to understanding the world. From 0 to 9, each number has its own shape and meaning.</p><p>简单练习 Simple Practice: Q: What comes after 5? A: 6 </p><p>习题集 Exercise Set:
-3.1) Circle number 7 in the chart
-3.2) Write the numbers from 0–9 in order
-3.3) What is the number before 8</p><p>1.2 Numbers 10–20 （10–20 的认识）</p><p>例子讲解 Example: Number 15 has 1 ten and 5 ones。数字 15 有 1 个十和 5 个一。</p><p>简单练习 Simple Practice: Q: How many tens and ones are in 12? A: 1 ten and 2 ones</p><p>习题集 Exercise Set:
-3.1) Write numbers from 11 to 20 in order
-3.2) Which number is bigger: 18 or 15?
-3.3) Circle all even numbers between 10 and 20</p><p>1.3 Numbers 1–100 （1–100 数表）</p><p>例子讲解 Example: A hundred chart shows numbers 1–100 in order。百数表显示 1 到 100 的排列规律。</p><p>简单练习 Simple Practice: Q: What number is below 15 in the hundred chart? A: 25</p><p>习题集 Exercise Set:
-3.1) Circle all multiples of 10
-3.2) Find all numbers ending in 5
-3.3) Count backwards from 20 to 1</p><ol start="2">
-<li>Number Sequences （数列与填空）
-2.1 Consecutive Numbers （连续数）</li>
-</ol>
-<p>例子讲解 Example: 45, 46, 47, (48), (49)… 每个数加 1。</p><p>简单练习 Simple Practice: Q: Fill in 7, 8, 9, ( ), ( ) A: 10, 11</p><p>习题集 Exercise Set:
-3.1) Fill in 91, 92, 93, ( ), ( )
-3.2) Fill in 10, 20, 30, ( ), ( )
-3.3) Count by twos: 2, 4, 6, ( ), ( ), ( )</p><p>2.2 Skip Counting （跳着数）</p><p>例子讲解 Example: 2, 4, 6, 8… → count by 2。跳着数表示每次加固定的数。</p><p>简单练习 Simple Practice: Q: Continue 5, 10, 15, ( ), ( ) A: 20, 25</p><p>习题集 Exercise Set:
-3.1) 2, 4, 6, ( ), ( ), ( )
-3.2) 5, 10, 15, ( ), ( ), ( )
-3.3) 10, 20, 30, ( ), ( ), ( )</p><ol start="3">
-<li>Comparing Numbers （比较数字大小）
-3.1 Greater, Less, Equal （大于、小于、等于）</li>
-</ol>
-<p>例子讲解 Example: 56 &lt; 65 → 56 is smaller than 65。</p><p>简单练习 Simple Practice: Q: Fill in ○ : 72 ○ 27 A: &gt;</p><p>习题集 Exercise Set:
-3.1) Fill in ○ : 13 ○ 31
-3.2) Which is the largest: 23, 56, 12, 89?
-3.3) Arrange from small to large: 45, 12, 67, 23</p><ol start="4">
-<li>Neighbor Numbers （相邻数字）</li>
-</ol>
-<p>例子讲解 Example: 4 → 前一个是 3，后一个是 5。99 → 前一个是 98，后一个是 100。</p><p>简单练习 Simple Practice: Q: The number before 10 is ( ) A: 9</p><p>习题集 Exercise Set:
-3.1) Write the number after 37
-3.2) Write the number before 100
-3.3) Fill in: ( ), 15, ( )</p><ol start="5">
-<li>Odd and Even Numbers （奇数与偶数）</li>
-</ol>
-<p>例子讲解 Example: Even numbers can be divided by 2 (e.g. 2, 4, 6)。偶数可以被 2 整除。</p><p>简单练习 Simple Practice: Q: Is 17 odd or even? A: Odd</p><p>习题集 Exercise Set:
-3.1) Write 3 even numbers between 20–30
-3.2) Write 3 odd numbers between 10–20
-3.3) 判断：9 + 7 是奇数还是偶数？</p><ol start="6">
-<li>Number Classification （数的分类与拓展）
-6.1 Multiples of 10 （整十数）</li>
-</ol>
-<p>例子讲解 Example: 10, 20, 30 are multiples of 10。</p><p>简单练习 Simple Practice: Q: Is 40 a multiple of 10? A: Yes</p><p>习题集 Exercise Set:
-3.1) Which are multiples of 10: 25, 40, 77, 100?
-3.2) Write 3 multiples of 10
-3.3) Fill in 70, 80, ( ), ( )</p><p>6.2 Multiples of 100 （整百数）</p><p>例子讲解 Example: 100, 200, 300 are multiples of 100。</p><p>简单练习 Simple Practice: Q: Is 500 a multiple of 100? A: Yes</p><p>习题集 Exercise Set:
-3.1) Write 3 multiples of 100
-3.2) Which is larger: 300 or 900?
-3.3) Fill in 100, 200, ( ), ( )</p><p>6.3 Prime and Composite Numbers （质数与合数，进阶）</p><p>例子讲解 Example: 2, 3, 5, 7 are prime numbers。4, 6, 8, 9 are composite。</p><p>简单练习 Simple Practice: Q: Is 9 prime or composite? A: Composite</p><p>习题集 Exercise Set:
-3.1) Which are prime: 2, 4, 5, 9, 11?
-3.2) Find the smallest prime number
-3.3) Find the first composite number</p><p>6.4 Divisibility （整除性初步）</p><p>例子讲解 Example: Numbers ending in 0 or 5 are divisible by 5。</p><p>简单练习 Simple Practice: Q: Is 25 divisible by 5? A: Yes</p><p>习题集 Exercise Set:
-3.1) Which numbers are divisible by 5: 25, 32, 45, 68?
-3.2) Which numbers are divisible by 2: 12, 15, 18?
-3.3) Write 3 numbers divisible by 10</p><ol start="7">
-<li>Applications （应用与综合练习）</li>
-</ol>
-<p>例子讲解 Example: 小红有 20 元，买了 15 元的文具盒，还剩多少钱？20 – 15 = 5。</p><p>简单练习 Simple Practice: Q: 小明有 12 个苹果，送给同学 3 个，还剩几个？ A: 9</p><p>习题集 Exercise Set:
-3.1) Find the pattern: 2, 4, 6, ( ), ( ), ( )
-3.2) Which number is missing: 5, ( ), 15, 20
-3.3) 小刚数 1 到 20，他说了几次“2”？</p><ol start="8">
-<li>Olympiad Math （奥数拓展）</li>
-</ol>
-<p>例子讲解 Example: 1, 2, 4, 8, 16, ( ) → 每个数乘 2。</p><p>简单练习 Simple Practice: Q: Fill in 1, 3, 6, 10, ( ), ( ) A: 15, 21</p><p>习题集 Exercise Set:
-3.1) 一个数加上它自己等于 18，这个数是多少？
-3.2) 小明从 1 数到 100，一共说了多少次“7”？
-3.3) 教室里有 28 条腿，可能有多少个小朋友，多少张桌子？</p>
+                
+  <p>
+    
+  </p>
+
+  <p>
+    
+  </p>
+<div><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mathematics Teaching Hub</title>
+<meta name="description" content="Step-by-step math teaching from fractions to geometry. Detailed explanations with examples for each topic.">
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: #f7f9fc;
+    color: #333;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 5px;
+}
+.description {
+    text-align: center;
+    color: #555;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+/* Breadcrumb */
+.breadcrumb {
+    font-size: 14px;
+    margin-bottom: 12px;
+    color: #555;
+}
+.breadcrumb a {
+    color: #4b6cb7;
+    text-decoration: none;
+}
+.breadcrumb a:hover {
+    color: #3a539b;
+    text-decoration: underline;
+}
+.breadcrumb span {
+    color: #333;
+}
+
+/* Tabs */
+.tab {
+    display: flex;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+}
+.tab button {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    padding: 12px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 5px;
+    border-radius: 5px 5px 0 0;
+    transition: 0.2s;
+    font-weight: bold;
+}
+.tab button.active {
+    background: #4b6cb7;
+    color: #fff;
+    border-color: #4b6cb7;
+}
+
+/* Tab content */
+.tabcontent {
+    display: none;
+}
+.tabcontent.active {
+    display: block;
+}
+
+/* Knowledge blocks */
+.block {
+    background: #c5d9ff;
+    border-left: 5px solid #4b6cb7;
+    border-radius: 8px;
+    padding: 15px 20px;
+    margin-bottom: 15px;
+}
+.block h3 {
+    margin-top: 0;
+    color: #2c3e50;
+    border-bottom: 2px solid #a0bcf0;
+    padding-bottom: 5px;
+}
+.block p {
+    margin: 6px 0;
+    line-height: 1.5;
+    color: #2c3e50;
+}
+
+/* Example */
+.example {
+    background: #fff;
+    border-radius: 6px;
+    padding: 10px 12px;
+    border: 1px solid #a0bcf0;
+    margin: 8px 0;
+}
+
+/* Button to exercises */
+.button {
+    display: inline-block;
+    padding: 10px 18px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff !important;
+    background-color: #4b6cb7 !important;
+    font-size: 15px;
+    text-align: center;
+    transition: background-color 0.2s ease;
+    margin-top: 10px;
+}
+.button:hover {
+    background-color: #3a539b !important;
+}
+
+@media(max-width:768px){
+    .tab button { flex: 1; margin-bottom:5px; font-size:14px; padding:10px; }
+}
+</style>
+</head>
+<body>
+
+<h1>Mathematics Teaching Hub</h1>
+
+<!-- Breadcrumb -->
+<div class="breadcrumb">
+  <a href="index.html">Home</a> ">> 
+  <a href="math-teaching.html">Math Teaching</a> ">> 
+  <span>Fractions</span>
+</div>
+
+<p class="description">Step-by-step teaching covering main math topics. Click tabs below to explore each category.</p>
+
+<div class="tab">
+    <button class="tablinks active" onclick="openTab(event,'fractions')">Fractions</button>
+    <button class="tablinks" onclick="openTab(event,'decimals')">Decimals</button>
+    <button class="tablinks" onclick="openTab(event,'geometry')">Geometry</button>
+    <button class="tablinks" onclick="openTab(event,'algebra')">Algebra</button>
+    <button class="tablinks" onclick="openTab(event,'probability')">Probability</button>
+</div>
+
+<!-- TAB: Fractions -->
+<div id="fractions" class="tabcontent active">
+    <div class="block">
+        <h3>What is a Fraction?</h3>
+        <p>A fraction represents part of a whole. Example:</p>
+        <div class="example">1/2 = one half</div>
+        <div class="example">3/4 = three quarters</div>
+        <div class="example">2/3 = two thirds</div>
+    </div>
+    <div class="block">
+        <h3>Numerator and Denominator</h3>
+        <p>The top number is the numerator, the bottom is the denominator.</p>
+        <div class="example">3/5 → 3 is numerator, 5 is denominator</div>
+        <div class="example">7/8 → 7 is numerator, 8 is denominator</div>
+    </div>
+    <div class="block">
+        <h3>Adding Fractions</h3>
+        <p>Fractions with the same denominator:</p>
+        <div class="example">1/4 + 2/4 = 3/4</div>
+        <div class="example">3/8 + 1/8 = 4/8 = 1/2</div>
+    </div>
+    <a href="#" class="button">Go to Fraction Exercises</a>
+</div>
+
+<!-- TAB: Decimals -->
+<div id="decimals" class="tabcontent">
+    <div class="block">
+        <h3>Understanding Decimals</h3>
+        <p>Decimals are fractions written with a denominator of 10, 100, etc.</p>
+        <div class="example">0.5 = 5/10 = 1/2</div>
+        <div class="example">0.25 = 25/100 = 1/4</div>
+    </div>
+    <a href="#" class="button">Go to Decimal Exercises</a>
+</div>
+
+<!-- TAB: Geometry -->
+<div id="geometry" class="tabcontent">
+    <div class="block">
+        <h3>Basic Shapes</h3>
+        <p>Learn about squares, triangles, circles, and more.</p>
+        <div class="example">Triangle: 3 sides</div>
+        <div class="example">Square: 4 equal sides</div>
+    </div>
+    <a href="#" class="button">Go to Geometry Exercises</a>
+</div>
+
+<!-- TAB: Algebra -->
+<div id="algebra" class="tabcontent">
+    <div class="block">
+        <h3>Simple Equations</h3>
+        <p>Understand how to solve for x in simple equations.</p>
+        <div class="example">x + 3 = 7 → x = 4</div>
+        <div class="example">2x = 10 → x = 5</div>
+    </div>
+    <a href="#" class="button">Go to Algebra Exercises</a>
+</div>
+
+<!-- TAB: Probability -->
+<div id="probability" class="tabcontent">
+    <div class="block">
+        <h3>Basics of Probability</h3>
+        <p>Probability measures how likely an event is to happen.</p>
+        <div class="example">Coin toss: P(Heads) = 1/2</div>
+        <div class="example">Rolling a die: P(6) = 1/6</div>
+    </div>
+    <a href="#" class="button">Go to Probability Exercises</a>
+</div>
+
+<script>
+function openTab(evt, tabName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for(i=0;i<tabcontent.length;i++){tabcontent[i].classList.remove("active");}
+    tablinks = document.getElementsByClassName("tablinks");
+    for(i=0;i<tablinks.length;i++){tablinks[i].classList.remove("active");}
+    document.getElementById(tabName).classList.add("active");
+    evt.currentTarget.classList.add("active");
+}
+</script>
+
+</body>
+</html>
+
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>TESTING PAGE</title>
+        <author>
+            <name>MATHQB</name>
+        </author>
+        <link href="https://mathquestionbank.pages.dev/10dao-xi-ti-ji-ye-mian-yan-shi.html"/>
+        <id>https://mathquestionbank.pages.dev/10dao-xi-ti-ji-ye-mian-yan-shi.html</id>
+            <category term="quick-practice"/>
+            <category term="difficulty-easy"/>
+
+        <updated>2025-09-12T12:30:15+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Adding fractions with the same denominator is simple: just add the numerators while keeping the denominator unchanged. Example: 1 4 + 2 4 = 3 4 💡 Remember: Only add numerators when denominators are equal. Simplify your answer if possible. 1. 12 + 12 =&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+
+  <p>
+    
+  </p>
+<div><!-- Breadcrumb -->
+<div style="margin-bottom:15px; font-size:14px; color:#555;">
+  <a href="index.html" style="color:#4b6cb7; text-decoration:none;">Home</a> > 
+  <a href="fractions.html" style="color:#4b6cb7; text-decoration:none;">Fractions</a> > 
+  Fraction Addition
+</div>
+
+<!-- Mini Lesson -->
+<div class="mini-lesson" style="background: linear-gradient(135deg, #e7f0ff 0%, #d4e4ff 100%); padding: 18px 20px; border-radius: 10px; margin-bottom: 20px; border-left: 5px solid #4b6cb7; box-shadow: 0 4px 8px rgba(0,0,0,0.08);">
+  <h3 style="margin-top:0; margin-bottom:12px; color:#2c3e50; font-size:20px; font-weight:600; border-bottom: 2px solid #a0bcf0; padding-bottom:8px;">📚 Mini Lesson: Fraction Addition</h3>
+  <p style="margin:8px 0; color:#2c3e50; line-height:1.5;">Adding fractions with the same denominator is simple: just add the numerators while keeping the denominator unchanged.</p>
+  
+  <div style="background: rgba(255,255,255,0.7); padding:15px; border-radius:8px; margin:12px 0; border:1px solid #c5d9ff;">
+    <p style="margin:6px 0; font-weight:500; color:#2c3e50;">Example:</p>
+    <p style="margin:6px 0; text-align:center; font-size:18px; font-weight:bold; color:#2c3e50;">
+      <span style="display:inline-block;text-align:center;vertical-align:middle; margin:0 3px;">
+        <span style="display:block;border-bottom:2px solid #4b6cb7;padding:0 4px; color:#2c3e50; font-weight:600;">1</span>
+        <span style="display:block;padding:0 4px; color:#2c3e50;">4</span>
+      </span> 
+      + 
+      <span style="display:inline-block;text-align:center;vertical-align:middle; margin:0 3px;">
+        <span style="display:block;border-bottom:2px solid #4b6cb7;padding:0 4px; color:#2c3e50; font-weight:600;">2</span>
+        <span style="display:block;padding:0 4px; color:#2c3e50;">4</span>
+      </span> 
+      = 
+      <span style="display:inline-block;text-align:center;vertical-align:middle; margin:0 3px;">
+        <span style="display:block;border-bottom:2px solid #4b6cb7;padding:0 4px; color:#2c3e50; font-weight:600;">3</span>
+        <span style="display:block;padding:0 4px; color:#2c3e50;">4</span>
+      </span>
+    </p>
+  </div>
+  
+  <div style="background: #fff8e1; padding:12px 15px; border-radius:6px; border-left:3px solid #ffa000; margin:12px 0;">
+    <p style="margin:6px 0; color:#2c3e50; line-height:1.5;">
+      <span style="font-weight:600; color:#d35400;">💡 Remember:</span> Only add numerators when denominators are equal. Simplify your answer if possible.
+    </p>
+  </div>
+  
+  <div style="text-align:center; margin-top:15px;">
+    <a href="full-lesson.html" style="display:inline-block; padding:6px 16px; background:linear-gradient(135deg, #4b6cb7 0%, #3a539b 100%); color:white; text-decoration:none; border-radius:25px; font-weight:500; font-size:13px; transition:all 0.3s ease; box-shadow:0 3px 6px rgba(75,108,183,0.3);">
+      📖 Read Full Lesson
+    </a>
+  </div>
+</div>
+
+<!-- Exercises -->
+<style>
+.exercise {margin:10px 0;}
+.exercise p {margin:4px 0; font-size:18px;}
+.answer {display:none;background:#fff4e0;color:#0d2a66;padding:6px 10px;border-radius:4px;margin-top:2px;font-size:16px;}
+.showAnswerBtn {display:inline-block;margin-top:4px;padding:4px 10px;border-radius:4px;text-decoration:none;color:#fff;background:#4b6cb7;font-size:14px;cursor:pointer;}
+.showAnswerBtn:hover {background:#3a539b;}
+
+/* 分数样式 */
+.frac {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    margin: 0 1px;
+}
+.frac-top {
+    display: block;
+    border-bottom: 1px solid #000;
+    padding: 0 3px;
+    line-height: 1.1;
+}
+.frac-bottom {
+    display: block;
+    padding: 0 3px;
+    line-height: 1.1;
+}
+</style>
+
+<div class="exercise">
+  <p>1. <span class="frac"><span class="frac-top">1</span><span class="frac-bottom">2</span></span> + <span class="frac"><span class="frac-top">1</span><span class="frac-bottom">2</span></span> = ?</p>
+  <span class="showAnswerBtn">► Show Answer</span>
+  <p class="answer">Answer: 1</p>
+</div>
+<div class="exercise">
+  <p>2. <span class="frac"><span class="frac-top">1</span><span class="frac-bottom">3</span></span> + <span class="frac"><span class="frac-top">1</span><span class="frac-bottom">3</span></span> = ?</p>
+  <span class="showAnswerBtn">► Show Answer</span>
+  <p class="answer">Answer: <span class="frac"><span class="frac-top">2</span><span class="frac-bottom">3</span></span></p>
+</div>
+<div class="exercise">
+  <p>3. <span class="frac"><span class="frac-top">2</span><span class="frac-bottom">5</span></span> + <span class="frac"><span class="frac-top">1</span><span class="frac-bottom">5</span></span> = ?</p>
+  <span class="showAnswerBtn">► Show Answer</span>
+  <p class="answer">Answer: <span class="frac"><span class="frac-top">3</span><span class="frac-bottom">5</span></span></p>
+</div>
+<div class="exercise">
+  <p>4. <span class="frac"><span class="frac-top">3</span><span class="frac-bottom">8</span></span> + <span class="frac"><span class="frac-top">1</span><span class="frac-bottom">8</span></span> = ?</p>
+  <span class="showAnswerBtn">► Show Answer</span>
+  <p class="answer">Answer: <span class="frac"><span class="frac-top">4</span><span class="frac-bottom">8</span></span> = <span class="frac"><span class="frac-top">1</span><span class="frac-bottom">2</span></span></p>
+</div>
+<div class="exercise">
+  <p>5. <span class="frac"><span class="frac-top">2</span><span class="frac-bottom">6</span></span> + <span class="frac"><span class="frac-top">3</span><span class="frac-bottom">6</span></span> = ?</p>
+  <span class="showAnswerBtn">► Show Answer</span>
+  <p class="answer">Answer: <span class="frac"><span class="frac-top">5</span><span class="frac-bottom">6</span></span></p>
+</div>
+<div class="exercise">
+  <p>6. <span class="frac"><span class="frac-top">1</span><span class="frac-bottom">10</span></span> + <span class="frac"><span class="frac-top">3</span><span class="frac-bottom">10</span></span> = ?</p>
+  <span class="showAnswerBtn">► Show Answer</span>
+  <p class="answer">Answer: <span class="frac"><span class="frac-top">4</span><span class="frac-bottom">10</span></span> = <span class="frac"><span class="frac-top">2</span><span class="frac-bottom">5</span></span></p>
+</div>
+<div class="exercise">
+  <p>7. <span class="frac"><span class="frac-top">2</span><span class="frac-bottom">7</span></span> + <span class="frac"><span class="frac-top">4</span><span class="frac-bottom">7</span></span> = ?</p>
+  <span class="showAnswerBtn">► Show Answer</span>
+  <p class="answer">Answer: <span class="frac"><span class="frac-top">6</span><span class="frac-bottom">7</span></span></p>
+</div>
+<div class="exercise">
+  <p>8. <span class="frac"><span class="frac-top">3</span><span class="frac-bottom">9</span></span> + <span class="frac"><span class="frac-top">5</span><span class="frac-bottom">9</span></span> = ?</p>
+  <span class="showAnswerBtn">► Show Answer</span>
+  <p class="answer">Answer: <span class="frac"><span class="frac-top">8</span><span class="frac-bottom">9</span></span></p>
+</div>
+<div class="exercise">
+  <p>9. <span class="frac"><span class="frac-top">1</span><span class="frac-bottom">12</span></span> + <span class="frac"><span class="frac-top">7</span><span class="frac-bottom">12</span></span> = ?</p>
+  <span class="showAnswerBtn">► Show Answer</span>
+  <p class="answer">Answer: <span class="frac"><span class="frac-top">8</span><span class="frac-bottom">12</span></span> = <span class="frac"><span class="frac-top">2</span><span class="frac-bottom">3</span></span></p>
+</div>
+<div class="exercise">
+  <p>10. <span class="frac"><span class="frac-top">5</span><span class="frac-bottom">15</span></span> + <span class="frac"><span class="frac-top">7</span><span class="frac-bottom">15</span></span> = ?</p>
+  <span class="showAnswerBtn">► Show Answer</span>
+  <p class="answer">Answer: <span class="frac"><span class="frac-top">12</span><span class="frac-bottom">15</span></span> = <span class="frac"><span class="frac-top">4</span><span class="frac-bottom">5</span></span></p>
+</div>
+
+<script>
+// Toggle answers
+document.querySelectorAll(".showAnswerBtn").forEach(btn => {
+  btn.addEventListener("click", function() {
+    let ans = this.nextElementSibling;
+    if(ans.style.display === "block") {
+      ans.style.display = "none";
+      this.textContent = "► Show Answer";
+    } else {
+      ans.style.display = "block";
+      this.textContent = "▼ Hide Answer";
+    }
+  });
+});
+</script>
+
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>TESTING LIST</title>
+        <author>
+            <name>MATHQB</name>
+        </author>
+        <link href="https://mathquestionbank.pages.dev/xi-ti-lie-biao-ye-an-li.html"/>
+        <id>https://mathquestionbank.pages.dev/xi-ti-lie-biao-ye-an-li.html</id>
+            <category term="fill-in-the-blank"/>
+            <category term="difficulty-easy"/>
+
+        <updated>2025-09-12T10:22:29+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Practice exercises focused on fraction operations. Click each topic to expand and see exercises. Practice exercises focused on geometry topics. Click each topic to expand and see exercises. Practice exercises focused on geometry topics. Click each topic to expand and see exercises.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+<div><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Practice Categories</title>
+<style>
+/* Accordion button */
+.accordion {
+    background-color: #4b6cb7;
+    color: #fff;
+    cursor: pointer;
+    padding: 12px 16px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    border-radius: 5px;
+    margin: 6px 0;
+    font-size: 16px;
+    transition: background-color 0.2s;
+}
+.accordion:hover {
+    background-color: #3a539b;
+}
+.accordion:after {
+    content: '\25BC';
+    float: right;
+    transition: transform 0.2s;
+}
+.accordion.active:after {
+    transform: rotate(-180deg);
+}
+
+/* Accordion content */
+.panel {
+    display: none;
+    padding: 10px 15px;
+    border-left: 2px solid #4b6cb7;
+    border-right: 2px solid #4b6cb7;
+    border-bottom: 2px solid #4b6cb7;
+    border-radius: 0 0 5px 5px;
+    background: #fff;
+}
+
+/* Links */
+.panel ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.panel ul li {
+    margin: 6px 0;
+}
+.panel ul li a {
+    color: #2c3e50;
+    text-decoration: none;
+    font-size: 15px;
+    transition: color 0.2s;
+}
+.panel ul li a:hover {
+    color: #4b6cb7;
+}
+
+/* TOC */
+.toc {
+    margin-bottom: 20px;
+}
+.toc ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+.toc ul li a {
+    text-decoration: none;
+    color: #4b6cb7;
+    font-weight: bold;
+}
+.toc ul li a:hover {
+    text-decoration: underline;
+}
+</style>
+</head>
+<body>
+
+<h1>Practice Categories</h1>
+
+<!-- TOC -->
+<div class="toc">
+  <ul>
+    <li><a href="#fraction">Fraction Exercises</a></li>
+    <li><a href="#geometry">Geometry Exercises</a></li>
+  </ul>
+</div>
+
+<!-- Fraction Exercises -->
+<h2 id="fraction">Fraction Exercises</h2>
+<p>Practice exercises focused on fraction operations. Click each topic to expand and see exercises.</p>
+
+<button class="accordion">Fraction Addition</button>
+<div class="panel">
+  <ul>
+    <li><a href="#">Fraction Addition Exercise 1</a></li>
+    <li><a href="#">Fraction Addition Exercise 2</a></li>
+    <li><a href="#">Fraction Addition Exercise 3</a></li>
+  </ul>
+</div>
+
+<button class="accordion">Fraction Subtraction</button>
+<div class="panel">
+  <ul>
+    <li><a href="#">Fraction Subtraction Exercise 1</a></li>
+    <li><a href="#">Fraction Subtraction Exercise 2</a></li>
+    <li><a href="#">Fraction Subtraction Exercise 3</a></li>
+  </ul>
+</div>
+
+<button class="accordion">Mixed Fraction Operations</button>
+<div class="panel">
+  <ul>
+    <li><a href="#">Mixed Fractions Exercise 1</a></li>
+    <li><a href="#">Mixed Fractions Exercise 2</a></li>
+    <li><a href="#">Mixed Fractions Exercise 3</a></li>
+  </ul>
+</div>
+
+<button class="accordion">Fraction Multiplication</button>
+<div class="panel">
+  <ul>
+    <li><a href="#">Fraction Multiplication Exercise 1</a></li>
+    <li><a href="#">Fraction Multiplication Exercise 2</a></li>
+    <li><a href="#">Fraction Multiplication Exercise 3</a></li>
+  </ul>
+</div>
+
+<button class="accordion">Fraction Division</button>
+<div class="panel">
+  <ul>
+    <li><a href="#">Fraction Division Exercise 1</a></li>
+    <li><a href="#">Fraction Division Exercise 2</a></li>
+    <li><a href="#">Fraction Division Exercise 3</a></li>
+  </ul>
+</div>
+
+<!-- Geometry Exercises -->
+<h2 id="geometry">Geometry Exercises</h2>
+<p>Practice exercises focused on geometry topics. Click each topic to expand and see exercises.</p>
+
+<button class="accordion">Angles</button>
+<div class="panel">
+  <ul>
+    <li><a href="#">Angles Exercise 1</a></li>
+    <li><a href="#">Angles Exercise 2</a></li>
+    <li><a href="#">Angles Exercise 3</a></li>
+  </ul>
+</div>
+
+<button class="accordion">Triangles</button>
+<div class="panel">
+  <ul>
+    <li><a href="#">Triangles Exercise 1</a></li>
+    <li><a href="#">Triangles Exercise 2</a></li>
+    <li><a href="#">Triangles Exercise 3</a></li>
+  </ul>
+</div>
+
+<button class="accordion">Quadrilaterals</button>
+<div class="panel">
+  <ul>
+    <li><a href="#">Quadrilaterals Exercise 1</a></li>
+    <li><a href="#">Quadrilaterals Exercise 2</a></li>
+    <li><a href="#">Quadrilaterals Exercise 3</a></li>
+  </ul>
+</div>
+
+<button class="accordion">Circles</button>
+<div class="panel">
+  <ul>
+    <li><a href="#">Circles Exercise 1</a></li>
+    <li><a href="#">Circles Exercise 2</a></li>
+    <li><a href="#">Circles Exercise 3</a></li>
+  </ul>
+</div>
+
+<button class="accordion">Polygons</button>
+<div class="panel">
+  <ul>
+    <li><a href="#">Polygons Exercise 1</a></li>
+    <li><a href="#">Polygons Exercise 2</a></li>
+    <li><a href="#">Polygons Exercise 3</a></li>
+  </ul>
+</div>
+
+<script>
+// Accordion toggle - only one open at a time per page
+document.querySelectorAll(".accordion").forEach(btn => {
+  btn.addEventListener("click", function() {
+    document.querySelectorAll(".accordion").forEach(b => {
+      if (b !== this) {
+        b.classList.remove("active");
+        b.nextElementSibling.style.display = "none";
+      }
+    });
+    this.classList.toggle("active");
+    let panel = this.nextElementSibling;
+    panel.style.display = (panel.style.display === "block") ? "none" : "block";
+  });
+});
+</script>
+
+</body>
+</html>
+
+</div>
+
+  <p>
+    
+  </p>
+
+    <h2 id="xia-mian-zhe-ge-shi-mei-ci-tian-jia-shou-feng-qin-de-shi-hou-fu-zhi-de-mo-ban-zhi-jie-jia-jin-qu-ran-hou-xiu-gai-li-mian-nei-rong-he-toc-biao-ti-jiu-hao-guang-gao-ke-yi-zhi-jie-fang-jin-qu">
+      下面这个是每次添加手风琴的时候复制的模板直接加进去然后修改里面内容和TOC 标题就好。广告可以直接放进去。
+    </h2>
+<div><!-- Geometry Exercises -->
+<h2 id="geometry">Geometry Exercises</h2>
+<p>Practice exercises focused on geometry topics. Click each topic to expand and see exercises.</p>
+
+<button class="accordion">Angles</button>
+<div class="panel">
+  <ul>
+    <li><a href="#">Angles Exercise 1</a></li>
+    <li><a href="#">Angles Exercise 2</a></li>
+    <li><a href="#">Angles Exercise 3</a></li>
+  </ul>
+</div>
+
+<button class="accordion">Triangles</button>
+<div class="panel">
+  <ul>
+    <li><a href="#">Triangles Exercise 1</a></li>
+    <li><a href="#">Triangles Exercise 2</a></li>
+    <li><a href="#">Triangles Exercise 3</a></li>
+  </ul>
+</div>
+
+<button class="accordion">Quadrilaterals</button>
+<div class="panel">
+  <ul>
+    <li><a href="#">Quadrilaterals Exercise 1</a></li>
+    <li><a href="#">Quadrilaterals Exercise 2</a></li>
+    <li><a href="#">Quadrilaterals Exercise 3</a></li>
+  </ul>
+</div>
+
+<button class="accordion">Circles</button>
+<div class="panel">
+  <ul>
+    <li><a href="#">Circles Exercise 1</a></li>
+    <li><a href="#">Circles Exercise 2</a></li>
+    <li><a href="#">Circles Exercise 3</a></li>
+  </ul>
+</div>
+
+<button class="accordion">Polygons</button>
+<div class="panel">
+  <ul>
+    <li><a href="#">Polygons Exercise 1</a></li>
+    <li><a href="#">Polygons Exercise 2</a></li>
+    <li><a href="#">Polygons Exercise 3</a></li>
+  </ul>
+</div>
+</div>
+
+  <p>
+    
+  </p>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
